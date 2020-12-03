@@ -17,13 +17,15 @@ html{
     cursor: pointer;
 }
 .logo{
-    width: 30%;
+    width: 80%;
     display:flex;
     justify-content: center;
     align-items: center;
+     padding-left: 10%;
+    padding-top: 2%;
 }
 .logo img{
-    width: 33%;
+    width: 100%;
     border: 10px rgb(245, 233, 233);
     border-radius: 200px;
     height: 50%;
